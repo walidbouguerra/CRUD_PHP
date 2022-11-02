@@ -1,4 +1,4 @@
-#PROCEDURAL PHP CRUD
+## PROCEDURAL PHP CRUD
 
 - Connect to your database in : /php_crud/php/includes/database-inc.php
 - CREATE DATABASE bibliothque;
